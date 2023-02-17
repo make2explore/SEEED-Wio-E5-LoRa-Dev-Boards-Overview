@@ -2,7 +2,7 @@
 Overview of SEEED Studio's Wio E5 LoRa Developments Boards. Hardware review, Getting Started and DIY Project  
 
 
-<img src="/Images/Wio-E5-YT-Thumb.jpj" height="250" >
+<img src="/Images/Wio-E5-YT-Thumb.jpg" height="250" >
   
 
 **Wio-E5** is a low-cost, ultra-low power, extremely compact, and high-performance **LoRaWAN®** Module designed by **Seeed Technology Co., Ltd.** It contains ST system-level package chip STM32WLE5JC, which is the ***world first SoC integrated with the combo of LoRa® RF and MCU chip.***  
@@ -51,7 +51,7 @@ This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed
 
 # [DIY Project]
 
-🚩  In this video, We will see the second version of DIY project which we have seen in previous part, based on RYRR10S RFID/NFC Module. Which is manufactured by Reyax Technology. We will see its Flowchart, Source code, Circuit diagram and Demo.    
+🚩  In this video, We will see . We will see its Flowchart, Source code, Circuit diagram and Demo.    
  
  <img src="/Images/Wio-E5-YT-Thumb2.jpg" height="250" >
 
