@@ -5,7 +5,7 @@ Overview of SEEED Studio's Wio E5 LoRa Developments Boards. Hardware review, Get
 <img src="/Images/Wio-E5-YT-Thumb.jpg" height="250" >
   
 
-**Wio-E5** is a low-cost, ultra-low power, extremely compact, and high-performance **LoRaWAN®** Module designed by **Seeed Technology Co., Ltd.** It contains ST system-level package chip STM32WLE5JC, which is the ***world first SoC integrated with the combo of LoRa® RF and MCU chip.***  
+**Wio-E5** is a low-cost, ultra-low power, extremely compact, and high-performance **LoRaWAN®** Module designed by **Seeed Technology Co., Ltd.** It contains ST system-level package chip STM32WLE5JC, which is the *world first SoC integrated with the combo of LoRa® RF and MCU chip.*  
 
 **Wio-E5 Development Kit** is a compact development toolset for you to unlock the powerful performance of the Wio-E5 STM32WLE5JC. Wio-E5 Dev Board embedded with Wio-E5 STM32WLE5JC Module that supports LoRaWAN® protocol on global frequency band. It leads out full GPIOs of Wio-E5 supporting various data protocols and interfaces including RS-485, Grove, male/female headers, etc. It would be a perfect choice for fast testing and rapid prototyping of your LoRa® IoT projects.  
 
@@ -16,7 +16,7 @@ These LoRa Decelopment Boards are manufactured by **Seeed Technology Co., Ltd.**
 
 This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed..  
 - **What is LoRa Technology ?** - Basic Introduction. 
-- **Datasheets of Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Electrical Characteristics, Et Cetra.  
+- **Datasheets of Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Electrical Characteristics, Etc.  
 - **Datasheet of STM32WLE5JC** - Chip which is brain and heart of Wio E5 LoRa Dev Boards
 - **How to Configure these LoRa boards using AT Commands** - Demo
 - **DIY Project** - Use/Application of LoRa WSN in Landslide Monitoring/Detection Systems
