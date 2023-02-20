@@ -51,7 +51,7 @@ This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed
 
 # [DIY Project]
 
-🚩  In this video, We will see a DIY project using Wio E5 LoRa Dev boards, Application of LoRa WSN in Landslide Monitoring/Detection Systems. We will see its Flowchart, Source code, Circuit diagram and Demo.    
+🚩  In this video, We will see a DIY project using Wio E5 LoRa Dev boards, Application of LoRa WSN in Landslide Monitoring/Detection Systems. We will see its Design, Block Diagram, Circuit diagram, Source code and Demo.    
  
  <img src="/Images/Wio-E5-YT-Thumb2.jpg" height="250" >
 
