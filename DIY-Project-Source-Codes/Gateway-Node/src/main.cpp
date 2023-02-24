@@ -24,7 +24,7 @@
 #include <Arduino.h>
 #include <SPI.h>              // SPI Library needed for display
 #include <TFT_eSPI.h>         // Graphics library
-#include "m2e-logo.h"         // make2explore Logo Bitmap
+#include "m2e-logo.h"         // make2explore Logo Bitmap header file
 #include <SoftwareSerial.h>   // Software Serial Library for communicating with Wio E5 Mini Board
 #include "DHT.h"              // Include DHT Sensors library
 
@@ -342,7 +342,12 @@ void displayReadings(){
 
   tft.drawNumber(SNR, 100, 185);
 
-  tft.drawString("OK", 100, 210);
+  if(SN_stat == 1){
+    tft.drawString("Alert!", 100, 210);
+  } else {
+    tft.drawString("OK", 100, 210);
+  }
+  
 }
 
 // Function to Initialise DHT Sensor and Check Readings
