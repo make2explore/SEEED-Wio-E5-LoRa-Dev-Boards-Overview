@@ -185,9 +185,9 @@ static int recv_parse(void)
                 SN_vib = (getValue(text, ',', 6)).toInt();
                 SN_stat = (getValue(text, ',', 7)).toInt();
 
-                GW_rain_per = (getValue(text, ',', 8)).toInt();  
-                GW_humidity = (getValue(text, ',', 9)).toInt();  
-                GW_temperature = (getValue(text, ',', 10)).toInt();
+                GW_rain_per = (getValue(text, ',', 8)).toFloat();  
+                GW_humidity = (getValue(text, ',', 9)).toFloat();  
+                GW_temperature = (getValue(text, ',', 10)).toFloat();
                 //Serial.println(GW_temperature);              
                 Serial.print("\r\n");
             }
@@ -201,7 +201,7 @@ static int recv_parse(void)
 // Function for Receiving incomming LoRa Packets
 static int node_recv(uint32_t timeout_ms)
 {
-    at_send_check_response("+TEST: RXLRPKT", 1000, "AT+TEST=RXLRPKT\r\n");
+    at_send_check_response("+TEST: RXLRPKT", 1500, "AT+TEST=RXLRPKT\r\n");
     int startMillis = millis();
     do
     {

@@ -216,7 +216,7 @@ static int recv_parse(void)
 // Function for Receiving incomming LoRa Packets
 static int node_recv(uint32_t timeout_ms)
 {
-    at_send_check_response("+TEST: RXLRPKT", 1000, "AT+TEST=RXLRPKT\r\n");
+    at_send_check_response("+TEST: RXLRPKT", 1500, "AT+TEST=RXLRPKT\r\n");
     int startMillis = millis();
     do
     {
