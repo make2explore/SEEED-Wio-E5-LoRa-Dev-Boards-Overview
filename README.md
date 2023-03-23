@@ -16,7 +16,7 @@ These LoRa Decelopment Boards are manufactured by **Seeed Technology Co., Ltd.**
 
 This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed..  
 - **What is LoRa Technology ?** - Basic Introduction. 
-- **Datasheets/Wiki of Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Electrical Characteristics, Etc.  
+- **Information about Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Datasheets, Etc.  
 - **Datasheet/Wiki of STM32WLE5JC** - Chip which is brain and heart of Wio E5 LoRa Dev Boards
 - **How to Configure these LoRa boards using AT Commands** - Demo
 - **DIY Project** - Use/Application of LoRa WSN in Landslide Monitoring/Detection Systems
