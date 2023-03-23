@@ -27,18 +27,27 @@ This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed
 
 📕 **YouTube Video Links**  
 
-▶️ [Device Overview]  - 🔗 https://youtu.be/6xrHXVnU7Dw  
+▶️ [Device Overview]   - 🔗 https://youtu.be/6xrHXVnU7Dw  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 Website - 🔗 https:// 
-🌐 Product page - 🔗 https://
+🌐 Website - 🔗 https://www.seeedstudio.com/  
+📜 Wiki page - Main  🔗 https://wiki.seeedstudio.com/Getting_Started/  
+📜 Wiki page - Wio-E5 Dev Kit  🔗 https://wiki.seeedstudio.com/LoRa_E5_Dev_Board/  
+📜 Wiki page - Wio-E5 Mini  🔗 https://wiki.seeedstudio.com/LoRa_E5_mini/  
+📜 Wiki page - Wio-E5 STM32WLE5JC Module  🔗 https://wiki.seeedstudio.com/LoRa-E5_STM32WLE5JC_Module/  
+📜 Wiki page - Grove - Wio-E5 Module  🔗 https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/  
+
+📌 ▶️ [DIY Project] Application of Wio-E5 Dev Boards - 🔗 https://youtu.be/B6kpMtoYYbQ  
+📌 ▶️ Introduction to LoRa Technology - 🔗 https://youtu.be/UFjA9VwudE0?t=60  
 
 🔴 Purchase Links -  
 
-🛒 AMAZON -  🔗 https://www. 
-🛒 FirstComponents -  🔗 https://www.
+🌐 Product page - 🔗 https://www.seeedstudio.com/LoRa-LoRaWAN-Modules-c-1950.html  
+🛒 Wio-E5 Dev Kit  -  🔗 https://www.seeedstudio.com/LoRa-E5-Dev-Kit-p-4868.html  
+🛒 Wio-E5 Mini Dev Board -  🔗 https://www.seeedstudio.com/LoRa-E5-mini-STM32WLE5JC-p-4869.html  
+🛒 Grove - Wio-E5 (STM32WLE5JC) -  🔗 https://www.seeedstudio.com/Grove-LoRa-E5-STM32WLE5JC-p-4867.html  
 
 
 📜 Source Code, Circuit Diagrams and Documentation : 
@@ -59,7 +68,7 @@ This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed
 
 📕 **YouTube Video Links**  
 
-▶️ [DIY Project]  - 🔗 https://
+▶️ [DIY Project]  - 🔗 https://youtu.be/B6kpMtoYYbQ  
 
 ------------------------------------------------------------------------------------------  
 
