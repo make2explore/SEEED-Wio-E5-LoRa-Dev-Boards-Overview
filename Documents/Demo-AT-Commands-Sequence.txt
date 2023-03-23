@@ -1,0 +1,17 @@
+TEST Mode AT Command Sequence for Wio-E5 LoRa Boards
+for P2P Data transmit/Receive
+
+===== Wio-E5 LoRa Transmitter ====
+
+AT
+AT+MODE=TEST
+AT+TEST=RFCFG,866,SF12,125,12,15,14,ON,OFF,OFF
+AT+TEST=TXLRPKT, "Hello"
+AT+TEST=TXLRSTR, "Hello"
+
+===== Wio-E5LoRa Receiver ====
+
+AT
+AT+MODE=TEST
+AT+TEST=RFCFG,866,SF12,125,12,15,14,ON,OFF,OFF
+AT+TEST=RXLRPKT
