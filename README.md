@@ -19,7 +19,7 @@ This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed
 - **Information about Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Datasheets, Etc.  
 - **Datasheet/Wiki of STM32WLE5JC** - The Chip which is brain and heart of Wio E5 LoRa Dev Boards
 - **AT Commands Configuration Guide** - AT Commands guideline documents for Wio E5
-- **How to Configure these LoRa boards using AT Commands** - Demo
+- **How to Configure these LoRa boards using AT Commands** - Demo of (Serial) AT Commands Configuration
 - **DIY Project** - Use/Application of LoRa WSN in Landslide Monitoring/Detection Systems
 - **Demo of the DIY Project**  - Block Diagram, Circuit Diagram, Souurce Code Explanations and Demonstration  
 
