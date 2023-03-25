@@ -14,7 +14,7 @@ Overview of SEEED Studio's Wio E5 LoRa Developments Boards. Hardware review, Get
 These LoRa Decelopment Boards are manufactured by **Seeed Technology Co., Ltd.** Which is Shenzhen, China based Reputed electronics and semiconductor manufacturing company. Which mainly works in, wireless communications  and, IoT domains.  
 
 
-This tutorial / Device Overview is about Wio E5 LoRa Dev Boards. We've discussed..  
+This tutorial / Device Overview is about Wio E5 LoRa Development Boards. We've discussed..  
 - **What is LoRa Technology ?** - Basic Introduction. 
 - **Information about Wio E5 LoRa Dev Board and Wio E5 Mini** - Features, Specifications, Datasheets, Etc.  
 - **Datasheet/Wiki of STM32WLE5JC** - The Chip which is brain and heart of Wio E5 LoRa Dev Boards
