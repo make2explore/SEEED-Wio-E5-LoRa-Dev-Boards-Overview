@@ -118,7 +118,7 @@ static int at_send_check_response(char *p_ack, int timeout_ms, char *p_cmd, ...)
     return 0;
 }
 
-// Function to configure LoRa E5 Dev Board in Test Mode - Check AT commands Specification Guide
+// Function to configure Wio-E5 LoRa Dev Board in Test Mode - Check AT commands Specification Guide
 // for more details about these command sequences  
 void configLoRaModule(){
   //Configure LoRa E5 Dev Kit in Test Mode

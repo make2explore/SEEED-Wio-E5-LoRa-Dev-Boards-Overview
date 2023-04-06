@@ -276,7 +276,7 @@ static void node_recv_then_send(uint32_t timeout)
     Serial.print("\r\n");
 }
 
-// Function to configure Wio E5 Mini in Test Mode - Check AT commands Specification Guide
+// Function to configure Wio-E5 Mini in Test Mode - Check AT commands Specification Guide
 // for more details about these command sequences  
 void configLoRaModule(){
   //Configure Wio E5 Mini Board in Test Mode

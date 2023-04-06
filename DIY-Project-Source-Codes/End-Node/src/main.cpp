@@ -33,7 +33,7 @@
 // Invoke Display and Create display Instance 
 TFT_eSPI tft; //initialize TFT LCD
 
-// Lets define Sofware serial Pins for WIo E5 Module
+// Lets define Sofware serial Pins for Wio-E5 Module
 const byte rxPin = D0;
 const byte txPin = D1;
 
@@ -214,7 +214,7 @@ static int node_recv(uint32_t timeout_ms)
 }
 
 
-// Function to configure Wio E5 Module in Test Mode - Check AT commands Specification Guide
+// Function to configure Wio-E5 Module in Test Mode - Check AT commands Specification Guide
 // for more details about these command sequences  
 void configLoRaModule(){
   //Configure Wio E5 Module in Test Mode
