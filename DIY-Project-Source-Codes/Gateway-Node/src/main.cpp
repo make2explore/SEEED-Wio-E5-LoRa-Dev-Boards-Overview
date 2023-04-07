@@ -3,7 +3,7 @@
 // Created By        - info@make2explore.com
 // Last Modified     - 14/02/2023 01:26:00 @admin
 // Software          - C/C++, PlatformIO IDE, Visual Studio Code Editor, Libraries
-// Hardware          - Arduino Mega 2560, NodeMCU ESP8266, Wio Terminal, Wio E5 Dev Boards, Displays, Sensors         
+// Hardware          - Arduino Mega 2560, NodeMCU ESP8266, Wio Terminal, Wio-E5 Dev Boards, Displays, Sensors         
 // Sensors Used      - DHT22, Soil Moisture - Resistive, Capacitive, Vibration, Rain, ADXL345 Accelerometer
 // Source Repo       - github.com/make2explore
 // -----------------------------------------------------------------------------------------------------------//
