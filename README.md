@@ -54,6 +54,10 @@ This tutorial / Device Overview is about Wio E5 LoRa Development Boards. We've d
 📜 Source Code, Circuit Diagrams and Documentation : 
 
 🌐 GitHub Repository - 🔗 https://github.com/make2explore/SEEED-Wio-E5-LoRa-Dev-Boards-Overview  
+  
+🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore/application-of-lora-wsn-in-landslide-monitoring-systems-462a98    
+  
+🌐 Instructable Blog - 🔗 https://www.instructables.com/Application-of-LoRa-WSN-in-Landslide-Monitoring-Sy/   
 
 ------------------------------------------------------------------------------------------  
 
