@@ -28,7 +28,7 @@ This tutorial / Device Overview is about Wio E5 LoRa Development Boards. We've d
 
 📕 **YouTube Video Links**  
 
-▶️ [Device Overview] Seeed Studio's Wio-E5 LoRa Development Boards   - 🔗 https://youtu.be/VspwQZ2S2m8  
+▶️ [Device Overview] Seeed Studio's Wio-E5 LoRa Development Boards   - 🔗 https://youtu.be/4ojRbUSfYdo  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
